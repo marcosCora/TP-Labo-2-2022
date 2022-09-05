@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1662160287 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\01 - 02 funciones, punteros y estrucuturas de datos estaticas y dinamicas\tp 2 estructura de datos estaticas y dinamicas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"pila.h"
+
+1662161324 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\01 - 02 funciones, punteros y estrucuturas de datos estaticas y dinamicas\tp 2 estructura de datos estaticas y dinamicas\pila.h
+	<stdio.h>
+	<stdlib.h>
+
+1662161614 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\01 - 02 funciones, punteros y estrucuturas de datos estaticas y dinamicas\tp 2 estructura de datos estaticas y dinamicas\pila.c
+	"pila.h"
+
