@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1660864891 source:c:\users\usuario\desktop\tp-1 funciones y puntero\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1661257549 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp-1 funciones y puntero\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
