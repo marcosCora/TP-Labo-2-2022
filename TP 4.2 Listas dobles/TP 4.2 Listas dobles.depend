@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1663380271 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\04 listas vinculadas y doblemente vinculada\tp 4.2 listas dobles\producto.c
+	"producto.h"
+
+1663381778 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\04 listas vinculadas y doblemente vinculada\tp 4.2 listas dobles\producto.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1663892321 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\04 listas vinculadas y doblemente vinculada\tp 4.2 listas dobles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"producto.h"
+	"funcionesAux.h"
+
+1663892416 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\04 listas vinculadas y doblemente vinculada\tp 4.2 listas dobles\listadoble.c
+	"listaDoble.h"
+
+1663889126 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\04 listas vinculadas y doblemente vinculada\tp 4.2 listas dobles\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"producto.h"
+
+1663892812 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\04 listas vinculadas y doblemente vinculada\tp 4.2 listas dobles\funcionesaux.c
+	"funcionesAux.h"
+
+1663885888 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\04 listas vinculadas y doblemente vinculada\tp 4.2 listas dobles\funcionesaux.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"producto.h"
+	"listaDoble.h"
+
