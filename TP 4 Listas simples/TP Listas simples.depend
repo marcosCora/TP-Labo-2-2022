@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1662675358 source:e:\tp listas simples\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+	"listas.h"
+
+1662078060 e:\tp listas simples\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1662077962 source:e:\tp listas simples\persona.c
+	"persona.h"
+
+1662679526 source:e:\tp listas simples\listas.c
+	"listas.h"
+
+1662675290 e:\tp listas simples\listas.h
+	"persona.h"
+	"producto.h"
+
+1662077080 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\04 listas vinculadas y doblemente vinculada\tp listas simples\listas.c
+	"listas.h"
+
+1662076854 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\04 listas vinculadas y doblemente vinculada\tp listas simples\listas.h
+	"persona.h"
+
+1662078060 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\04 listas vinculadas y doblemente vinculada\tp listas simples\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1662077996 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\04 listas vinculadas y doblemente vinculada\tp listas simples\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+	"listas.h"
+
+1662077962 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\04 listas vinculadas y doblemente vinculada\tp listas simples\persona.c
+	"persona.h"
+
+1662676070 source:e:\tp listas simples\producto.c
+	"producto.h"
+
+1662585272 e:\tp listas simples\producto.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1662077962 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\04 listas vinculadas y doblemente vinculada\tp 4 listas simples\persona.c
+	"persona.h"
+
+1662078060 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\04 listas vinculadas y doblemente vinculada\tp 4 listas simples\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1663380271 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\04 listas vinculadas y doblemente vinculada\tp 4 listas simples\producto.c
+	"producto.h"
+
+1663377206 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\04 listas vinculadas y doblemente vinculada\tp 4 listas simples\producto.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1664217069 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\04 listas vinculadas y doblemente vinculada\tp 4 listas simples\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listas.h"
+	"funcionesAux.h"
+
+1664216613 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\04 listas vinculadas y doblemente vinculada\tp 4 listas simples\listas.h
+	"producto.h"
+
+1664216619 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\04 listas vinculadas y doblemente vinculada\tp 4 listas simples\listas.c
+	"listas.h"
+
+1664216681 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\04 listas vinculadas y doblemente vinculada\tp 4 listas simples\funcionesaux.c
+	"funcionesAux.h"
+
+1664216133 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\04 listas vinculadas y doblemente vinculada\tp 4 listas simples\funcionesaux.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"producto.h"
+	"listas.h"
+
