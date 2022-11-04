@@ -1,0 +1,245 @@
+# depslib dependency file v1.0
+1667084821 source:d:\mis documentos\escritorio\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1667083475 source:d:\mis documentos\escritorio\tp final\arbolproducto.c
+	"arbolProducto.h"
+
+1667082714 d:\mis documentos\escritorio\tp final\arbolproducto.h
+	"producto.h"
+
+1667081710 d:\mis documentos\escritorio\tp final\producto.h
+	"cliente.h"
+
+1667083815 d:\mis documentos\escritorio\tp final\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1667081410 source:d:\mis documentos\escritorio\tp final\cliente.c
+	"cliente.h"
+
+1667082879 source:d:\mis documentos\escritorio\tp final\detallepedido.c
+	"detallePedido.h"
+
+1667082879 d:\mis documentos\escritorio\tp final\detallepedido.h
+	"producto.h"
+
+1667084320 source:d:\mis documentos\escritorio\tp final\listacliente.c
+	"listaCliente.h"
+
+1667084320 d:\mis documentos\escritorio\tp final\listacliente.h
+	"listaPedido.h"
+	"cliente.h"
+
+1667083142 d:\mis documentos\escritorio\tp final\listapedido.h
+	"cabeceraPedido.h"
+	"listaProducto.h"
+
+1667083393 d:\mis documentos\escritorio\tp final\cabecerapedido.h
+	"producto.h"
+
+1667082754 d:\mis documentos\escritorio\tp final\listaproducto.h
+	"arbolProducto.h"
+
+1667084174 source:d:\mis documentos\escritorio\tp final\listapedido.c
+	"listaPedido.h"
+
+1667082581 source:d:\mis documentos\escritorio\tp final\listaproducto.c
+	"listaProducto.h"
+
+1667083600 source:d:\mis documentos\escritorio\tp final\producto.c
+	"producto.h"
+
+1667083400 source:d:\mis documentos\escritorio\tp final\cabecerapedido.c
+	"cabeceraPedido.h"
+
+1666825940 source:d:\mis documentos\escritorio\tp final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1667084072 source:d:\mis documentos\escritorio\tp final\menu.c
+	"menu.h"
+
+1667084821 d:\mis documentos\escritorio\tp final\menu.h
+	"utilidades.h"
+
+1666825939 d:\mis documentos\escritorio\tp final\gotoxy.h
+
+1667084821 d:\mis documentos\escritorio\tp final\utilidades.h
+	"producto.h"
+	<windows.h>
+	<time.h>
+	"gotoxy.h"
+	"listaCliente.h"
+
+1667084740 source:d:\mis documentos\escritorio\tp final\utilidades.c
+	"utilidades.h"
+
+1667069074 source:c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\arbolproducto.c
+	"arbolProducto.h"
+
+1667068314 c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\arbolproducto.h
+	"producto.h"
+
+1667067310 c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\producto.h
+	"cliente.h"
+
+1667510302 c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1667069000 source:c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\cabecerapedido.c
+	"cabeceraPedido.h"
+
+1667068992 c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\cabecerapedido.h
+	"producto.h"
+
+1667510302 source:c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\cliente.c
+	"cliente.h"
+
+1667068478 source:c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\detallepedido.c
+	"detallePedido.h"
+
+1667068478 c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\detallepedido.h
+	"producto.h"
+
+1666811540 source:c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1667145805 source:c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\listacliente.c
+	"listaCliente.h"
+
+1667069920 c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\listacliente.h
+	"listaPedido.h"
+	"cliente.h"
+
+1667068742 c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\listapedido.h
+	"cabeceraPedido.h"
+	"listaProducto.h"
+
+1667068354 c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\listaproducto.h
+	"arbolProducto.h"
+
+1667069774 source:c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\listapedido.c
+	"listaPedido.h"
+
+1667068180 source:c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\listaproducto.c
+	"listaProducto.h"
+
+1667145339 source:c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1667434384 c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\menu.h
+	"utilidades.h"
+
+1667070420 c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\utilidades.h
+	"producto.h"
+	<windows.h>
+	<time.h>
+	"gotoxy.h"
+	"listaCliente.h"
+
+1666811538 c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\gotoxy.h
+
+1667069200 source:c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\producto.c
+	"producto.h"
+
+1667070340 source:c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\utilidades.c
+	"utilidades.h"
+
+1667510302 source:c:\users\victus\desktop\2022-10-30 tp\tp final-20221030t150751z-001\tp final\menu.c
+	"menu.h"
+
+1667083475 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\arbolproducto.c
+	"arbolProducto.h"
+
+1667082714 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\arbolproducto.h
+	"producto.h"
+
+1667081710 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\producto.h
+	"cliente.h"
+
+1667083815 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1667592533 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\cabecerapedido.c
+	"cabeceraPedido.h"
+
+1667436206 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\cabecerapedido.h
+	<time.h>
+	"producto.h"
+	"detallePedido.h"
+
+1667081410 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\cliente.c
+	"cliente.h"
+
+1667082879 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\detallepedido.c
+	"detallePedido.h"
+
+1667160975 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\detallepedido.h
+	"producto.h"
+
+1666825940 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1667591192 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\listacliente.c
+	"listaCliente.h"
+
+1667591192 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\listacliente.h
+	"listaPedido.h"
+	"cliente.h"
+
+1667083142 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\listapedido.h
+	"cabeceraPedido.h"
+	"listaProducto.h"
+
+1667082754 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\listaproducto.h
+	"arbolProducto.h"
+
+1667592524 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\listapedido.c
+	"listaPedido.h"
+
+1667509744 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\listaproducto.c
+	"listaProducto.h"
+
+1667522617 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1667591606 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\menu.h
+	"utilidades.h"
+
+1667595423 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\utilidades.h
+	"producto.h"
+	<windows.h>
+	"gotoxy.h"
+	"listaCliente.h"
+
+1666825939 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\gotoxy.h
+
+1667595785 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\menu.c
+	"menu.h"
+
+1667083600 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\producto.c
+	"producto.h"
+
+1667592339 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\trabajo final\5\tp final\utilidades.c
+	"utilidades.h"
+
